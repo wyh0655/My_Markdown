@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 ### 4. 高效绘制 [流程图](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图)
 
-```flowchart
+```flow
 
 st=>start: 开始
 cond=>condition: 累吗
