@@ -1,14 +1,6 @@
 # BUCTOJ 字符串
 
-标签（空格分隔）： ACM
-
----
-
-[TOC]
-
----
-
-###Word Amalgamation
+### Word Amalgamation
 
 map string 帅呆了
 
@@ -63,7 +55,7 @@ int main()
 
 ---
 
-###Fractal
+### Fractal
 
 这题OJ有问题，没有过的
 
